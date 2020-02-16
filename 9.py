@@ -1,0 +1,5 @@
+s1=input()
+s2='%s%s'%(s1,s1)
+s3='%s%s%s'%(s1,s1,s1)
+s4='%s%s%s%s'%(s1,s1,s1,s1)
+print(int(s1)+int(s2)+int(s3)+int(s4))
