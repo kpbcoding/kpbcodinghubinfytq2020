@@ -1,0 +1,6 @@
+s=int(input())
+a='%s'%(s)
+aa='%s%s'%(s,s)
+aaa='%s%s%s'%(s,s,s)
+aaaa='%s%s%s%s'%(s,s,s,s)
+print(int(a)+int(aa)+int(aaa)+int(aaaa))
